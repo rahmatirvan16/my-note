@@ -5,6 +5,7 @@
 - Git-Remote
 
 ### Miktorik Administrasi
+- Lab Setup
 - Network Fundamental
 - Internet Gateway
 - Firewall Filter
