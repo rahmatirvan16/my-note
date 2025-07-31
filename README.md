@@ -1,6 +1,9 @@
 # my-note
+### GitHub
 
 ### Miktorik Administrasi
+- Network Fundamental
+- Internet Gateway
 - Firewall Filter
 - Firewall Address List
 - Firewall NAT
@@ -10,10 +13,27 @@
 - Tunnel & VPN
 - Faill Over & Load Balance
 - Hostpot
-- [Seting DHCP-Client](https://github.com/rahmatirvan16/mikrotikadministrator)
+
 ### Programming PHP
-- [OOP](https://github.com/rahmatirvan16/php-dasar/issues/2)
-- [MVC](https://github.com/rahmatirvan16/php-dasar/issues/1)
+- PHP-Dasar
+- PHP-ToDoList
+- PHP-OOP
+- PHP-FiturPHP8
+- PHP-OOPTodoList
+- PHP-MySQL
+- PHP-MySQLAplikasi
+- PHP-Web
+- PHP-Composer
+- PHP-UnitTest
+- PHP-MVC
+- PHP-WebLoginManagement
+- PHP-Logging
+- PHP-FiturPHP8.1
+- PHP-StandartRecommendation
+
 ### Programming Laravel
+
+### Programming Javascript
+
 ### Programming Node-JS
 
