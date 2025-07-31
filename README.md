@@ -1,5 +1,8 @@
 # my-note
 ### GitHub
+- Git-Dasar
+- Git-Branching
+- Git-Remote
 
 ### Miktorik Administrasi
 - Network Fundamental
