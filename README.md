@@ -5,7 +5,7 @@
 - Git-Remote
 
 ### Miktorik Administrasi
-- [Lab Setup](https://github.com/rahmatirvan16/lab-setup)
+- Lab Setup [Klik Disini](https://github.com/rahmatirvan16/lab-setup)
 - Network Fundamental
 - Internet Gateway
 - Firewall Filter
@@ -15,7 +15,7 @@
 - OSPF
 - Bridge
 - Tunnel & VPN
-- Faill Over & Load Balance
+- Faill Over & Load Balance [Klik Disini](https://github.com/rahmatirvan16/Fail-Over-dan-Load-Balance)
 - Hostpot
 
 ### Programming PHP
