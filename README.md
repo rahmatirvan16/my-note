@@ -18,6 +18,8 @@
 - Faill Over & Load Balance [Klik Disini](https://github.com/rahmatirvan16/Fail-Over-dan-Load-Balance)
 - Hostpot
 
+### Network Security
+
 ### Programming PHP
 - PHP-Dasar
 - PHP-ToDoList
@@ -36,6 +38,21 @@
 - PHP-StandartRecommendation
 
 ### Programming Laravel
+- Laravel Dasar
+- Web Login & Todolis
+- Laravel Logging
+- Laravel Blade Template
+- Laravel Collection
+- Laravel Database
+- Laravel Eloquent
+- Laravel Validation
+- Laravel Eloquent API Resource
+- Laravel RESTful API
+- Web Todolist dengan Laravel
+- Laravel Security
+- Laravel Redis
+- Laravel HTTP Client
+- Laravel 11
 
 ### Programming Javascript
 - Html-Dasar
@@ -52,10 +69,27 @@
   
 
 ### Programming Node-JS
+- NodeJS
+- Todolist RESTful API
+- Node Pakcage Manager
+- NodeJS Unit Test
+- NodeJS Logging
+- NodeJS ExpressJS
+- NodeJS Mustache
+- NodeJS Database dan Prisma ORM
+- NodeJS Validation
+- NodeJS RESTful API
+- Node JS ESlint
+- NodeJS Redis
+- NodeJS Axios
 
 ### RESTful API
 
+### ReactJS
+
 ### Docker & Kurbenetes
+
+### Project Elearning
 
 ### K6 Perfomance
 
