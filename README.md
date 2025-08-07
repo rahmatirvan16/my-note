@@ -16,7 +16,7 @@
 - Bridge
 - Tunnel & VPN
 - Faill Over & Load Balance [Klik Disini](https://github.com/rahmatirvan16/Fail-Over-dan-Load-Balance)
-- Hostpot
+- Hostpot [Klik Disini](https://github.com/rahmatirvan16/Hotspot)
 
 ### Network Security
 
